@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9eae05f-ab10-4648-a061-5a032cf297a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reward_norm_visualize.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/circuit_ground/model.sdf" beforeDir="false" afterPath="$PROJECT_DIR$/models/circuit_ground/model.sdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/params.json" beforeDir="false" afterPath="$PROJECT_DIR$/params.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ppo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppo1_utils/mlp_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ppo1_utils/mlp_policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppo1_utils/pposgd_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/ppo1_utils/pposgd_simple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worlds/circuit_ground.world" beforeDir="false" afterPath="$PROJECT_DIR$/worlds/circuit_ground.world" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,18 +20,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/IROS2019$train.coverage" NAME="train Coverage Results" MODIFIED="1549246975928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IROS2019$train.coverage" NAME="train Coverage Results" MODIFIED="1549418210772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IROS2019" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="106" column="32" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="32" />
+            <state relative-caret-position="755">
+              <caret line="94" column="37" selection-start-line="94" selection-start-column="37" selection-end-line="94" selection-end-column="37" />
               <folding>
                 <element signature="e#1#11#0" expanded="true" />
               </folding>
@@ -35,13 +43,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reward_norm_visualize.py">
+        <entry file="file://$PROJECT_DIR$/params.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -49,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ppo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1566">
-              <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+            <state relative-caret-position="378">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -58,44 +63,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ppo1_utils/mlp_policy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="40" column="81" selection-start-line="40" selection-start-column="81" selection-end-line="40" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ppo1_utils/pposgd_simple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="227" column="22" lean-forward="true" selection-start-line="227" selection-start-column="22" selection-end-line="227" selection-end-column="22" />
+            <state relative-caret-position="123">
+              <caret line="196" column="18" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="126" column="55" selection-start-line="126" selection-start-column="55" selection-end-line="126" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brs_engine/DubinsCar_approx_TTR.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brs_engine/DubinsCar_approx_RS.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -131,6 +127,14 @@
       <find>pi</find>
       <find>interval</find>
       <find>goal_pos_tolerance</find>
+      <find>EpLenMean</find>
+      <find>collision_reward</find>
+      <find>1000</find>
+      <find>gaussian_fixed_var</find>
+      <find>iteration 0</find>
+      <find>iteration 36</find>
+      <find>iteration 37</find>
+      <find>pdtype</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -139,13 +143,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ppo.py" />
-        <option value="$PROJECT_DIR$/models/circuit_ground/model.sdf" />
-        <option value="$PROJECT_DIR$/worlds/circuit_ground.world" />
         <option value="$PROJECT_DIR$/models/Quadroter/model.config" />
         <option value="$PROJECT_DIR$/models/Quadroter/model.sdf" />
         <option value="$PROJECT_DIR$/models/quadroter/model.sdf" />
-        <option value="$PROJECT_DIR$/params.json" />
         <option value="$PROJECT_DIR$/launch/QuadroterAirSpace_v0.launch" />
         <option value="$PROJECT_DIR$/models/air_space/model.sdf" />
         <option value="$PROJECT_DIR$/models/air_space/model.config" />
@@ -161,12 +161,24 @@
         <option value="$PROJECT_DIR$/brs_engine/DubinsCar_create_init_target.m" />
         <option value="$PROJECT_DIR$/brs_engine/DubinsCar_approx_RS.m" />
         <option value="$PROJECT_DIR$/brs_engine/DubinsCar_approx_TTR.m" />
-        <option value="$PROJECT_DIR$/ppo1_utils/pposgd_simple.py" />
         <option value="$PROJECT_DIR$/launch/DubinsCarCircuitGround_v0.launch" />
-        <option value="$PROJECT_DIR$/train.py" />
         <option value="$PROJECT_DIR$/reward_norm_visualize.py" />
-        <option value="$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0.py" />
+        <option value="$PROJECT_DIR$/ppo.py" />
+        <option value="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_04-Feb-2019_21-47-51/README.md" />
+        <option value="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_04-Feb-2019_21-06-52/README.md" />
+        <option value="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_04-Feb-2019_20-16-41/README.md" />
+        <option value="$PROJECT_DIR$/models/circuit_ground/model.sdf" />
+        <option value="$PROJECT_DIR$/worlds/circuit_ground.world" />
         <option value="$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py" />
+        <option value="$PROJECT_DIR$/params.json" />
+        <option value="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_12-27-33/README.md" />
+        <option value="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_11-56-32/README.md" />
+        <option value="$PROJECT_DIR$/ppo1_utils/pposgd_simple.py" />
+        <option value="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_12-45-07/README.md" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_14-46-33/README.md" />
+        <option value="$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0.py" />
+        <option value="$PROJECT_DIR$/ppo1_utils/mlp_policy.py" />
       </list>
     </option>
   </component>
@@ -181,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,11 +201,25 @@
               <item name="IROS2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="IROS2019" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IROS2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IROS2019" type="462c0819:PsiDirectoryNode" />
+              <item name="brs_engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IROS2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IROS2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ppo1_utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IROS2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IROS2019" type="462c0819:PsiDirectoryNode" />
+              <item name="runs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,7 +237,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/brs_engine" />
+      <recent name="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_14-46-33" />
+      <recent name="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_12-45-07" />
+      <recent name="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_12-27-33" />
+      <recent name="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_11-56-32" />
+      <recent name="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_04-Feb-2019_21-47-51" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -304,12 +335,14 @@
       <workItem from="1548980547397" duration="3827000" />
       <workItem from="1548984427738" duration="1032000" />
       <workItem from="1548985537992" duration="14053000" />
-      <workItem from="1549067618655" duration="16671000" />
+      <workItem from="1549067618655" duration="18027000" />
+      <workItem from="1549336921386" duration="14934000" />
+      <workItem from="1549396405027" duration="18544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185777000" />
+    <option name="totallyTimeSpent" value="220611000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,15 +355,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1922" height="1153" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49951503" visible="true" weight="0.22547974" />
       <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50048494" side_tool="true" weight="0.22547974" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297769" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2628516" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37148398" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47041708" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4869059" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297769" />
@@ -380,108 +412,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/train.py</url>
-          <line>65</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ppo1_utils/pposgd_simple.py</url>
-          <line>85</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0.py</url>
-          <line>236</line>
-          <option name="timeStamp" value="35" />
+          <url>file://$PROJECT_DIR$/ppo1_utils/mlp_policy.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/baselines/common/tf_util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/circuit_ground/model.sdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6588">
-          <caret line="366" column="23" selection-start-line="363" selection-start-column="12" selection-end-line="366" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/rl_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/air_space/model.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/air_space/model.sdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6246">
-          <caret line="347" column="39" selection-start-line="347" selection-start-column="23" selection-end-line="347" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/worlds/air_space.world">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/worlds/circuit_ground.world">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="970">
-          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/params.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/quadrotor/model.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/quadrotor/model.sdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///opt/ros/kinetic/lib/python2.7/dist-packages/sensor_msgs/msg/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/brs_engine/Quad6D_create_init_target.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/brs_engine/@Quad6D_XY/Quad6D_XY.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -693,10 +631,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppo1_utils/pposgd_simple.py">
+    <entry file="file://$PROJECT_DIR$/brs_engine/DubinsCar_approx_TTR.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -707,30 +645,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/brs_engine/DubinsCar_approx_TTR.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="106" column="32" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="32" />
-          <folding>
-            <element signature="e#1#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_04-Feb-2019_20-16-41/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -746,20 +667,145 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="126" column="55" selection-start-line="126" selection-start-column="55" selection-end-line="126" selection-end-column="55" />
+        <state relative-caret-position="263">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/circuit_ground.world">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="473" column="18" selection-start-line="473" selection-start-column="18" selection-end-line="473" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/circuit_ground/model.sdf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="85" column="32" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_11-56-32/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_04-Feb-2019_21-47-51/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_04-Feb-2019_21-06-52/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="252">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_12-27-33/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_12-45-07/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="414">
+            <caret line="23" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baselines/common/distributions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_14-46-33/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppo1_utils/pposgd_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="227" column="22" lean-forward="true" selection-start-line="227" selection-start-column="22" selection-end-line="227" selection-end-column="22" />
+        <state relative-caret-position="123">
+          <caret line="196" column="18" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppo1_utils/mlp_policy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="40" column="81" selection-start-line="40" selection-start-column="81" selection-end-line="40" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/params.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="94" column="37" selection-start-line="94" selection-start-column="37" selection-end-line="94" selection-end-column="37" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
