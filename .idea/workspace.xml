@@ -2,39 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9eae05f-ab10-4648-a061-5a032cf297a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/batchOps.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs_reborn/PlanarQuadEnv-v0_ttr_14-Mar-2019_22-16-56/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runs_reborn/PlanarQuadEnv-v0_ttr_15-Mar-2019_16-03-50/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/@Quad6D_VxPhi/dynamics.m" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/@Quad6D_VxPhi/dynamics.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/@Quad6D_VxPhi/optCtrl.m" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/@Quad6D_VxPhi/optCtrl.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/@Quad6D_W/dynamics.m" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/@Quad6D_W/dynamics.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/@Quad6D_W/optCtrl.m" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/@Quad6D_W/optCtrl.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/PlanarQuad_brs_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/PlanarQuad_brs_engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/ttr.mat" beforeDir="false" afterPath="$PROJECT_DIR$/pieces/ttr.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/ttrVxPhi.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/ttrVyPhi.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/ttrW.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/ttrX.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brs_engine/ttrY.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/eval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0_dqn.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym-foo/gym_foo/envs/DubinsCarEnv_v0_dqn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batchOps.sh" beforeDir="false" afterPath="$PROJECT_DIR$/batchOps.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gym-foo/gym_foo/envs/PlanarQuadEnv_v0.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym-foo/gym_foo/envs/PlanarQuadEnv_v0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gym-foo/gym_foo/envs/PlanarQuadEnv_v0_dqn.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym-foo/gym_foo/envs/PlanarQuadEnv_v0_dqn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/launch/QuadrotorAirSpace_v0.launch" beforeDir="false" afterPath="$PROJECT_DIR$/launch/QuadrotorAirSpace_v0.launch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/air_space/model.sdf" beforeDir="false" afterPath="$PROJECT_DIR$/models/air_space/model.sdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ppo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppo1_utils/mlp_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ppo1_utils/mlp_policy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppo1_utils/pposgd_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/ppo1_utils/pposgd_simple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppo_params.json" beforeDir="false" afterPath="$PROJECT_DIR$/ppo_params.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/rl_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/rl_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/worlds/air_space.world" beforeDir="false" afterPath="$PROJECT_DIR$/worlds/air_space.world" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/worlds/circuit_ground.world" beforeDir="false" afterPath="$PROJECT_DIR$/worlds/circuit_ground.world" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,21 +43,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gym-foo/gym_foo/envs/PlanarQuadEnv_v0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="530" column="28" lean-forward="true" selection-start-line="530" selection-start-column="28" selection-end-line="530" selection-end-column="28" />
+            <state relative-caret-position="-2631">
+              <caret line="549" column="48" selection-start-line="549" selection-start-column="48" selection-end-line="549" selection-end-column="48" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
                 <element signature="e#729#804#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -97,7 +58,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+                <caret column="72" selection-start-column="72" selection-end-column="72" />
               </first_editor>
               <second_editor />
             </state>
@@ -113,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/batchOps.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="72">
+              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -204,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_12-45-07/README.md" />
         <option value="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_14-46-33/README.md" />
         <option value="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_05-Feb-2019_17-56-52/README.md" />
         <option value="$PROJECT_DIR$/params.json" />
@@ -251,10 +211,11 @@
         <option value="$PROJECT_DIR$/worlds/circuit_ground.world" />
         <option value="$PROJECT_DIR$/ppo_params.json" />
         <option value="$PROJECT_DIR$/runs_reborn/PlanarQuadEnv-v0_ttr_14-Mar-2019_22-16-56/README.md" />
-        <option value="$PROJECT_DIR$/batchOps.sh" />
         <option value="$PROJECT_DIR$/runs_reborn/PlanarQuadEnv-v0_ttr_15-Mar-2019_16-03-50/README.md" />
-        <option value="$PROJECT_DIR$/gym-foo/gym_foo/envs/PlanarQuadEnv_v0.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/batchOps.sh" />
+        <option value="$PROJECT_DIR$/runs_reborn/PlanarQuadEnv-v0_ttr_15-Mar-2019_15-08-22/README.md" />
+        <option value="$PROJECT_DIR$/gym-foo/gym_foo/envs/PlanarQuadEnv_v0.py" />
       </list>
     </option>
   </component>
@@ -296,6 +257,19 @@
             <path>
               <item name="IROS2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="IROS2019" type="462c0819:PsiDirectoryNode" />
+              <item name="runs_reborn" type="462c0819:PsiDirectoryNode" />
+              <item name="PlanarQuadEnv-v0_ttr_15-Mar-2019_17-28-35" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IROS2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IROS2019" type="462c0819:PsiDirectoryNode" />
+              <item name="runs_reborn" type="462c0819:PsiDirectoryNode" />
+              <item name="PlanarQuadEnv-v0_ttr_15-Mar-2019_17-28-35" type="462c0819:PsiDirectoryNode" />
+              <item name="figure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IROS2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IROS2019" type="462c0819:PsiDirectoryNode" />
               <item name="worlds" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -313,19 +287,19 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/runs_reborn/PlanarQuadEnv-v0_ttr_15-Mar-2019_15-08-22" />
+      <recent name="$PROJECT_DIR$/runs_reborn" />
+      <recent name="$PROJECT_DIR$/runs_paper/PlanarQuadEnv-v0_ttr_18-Feb-2019_19-10-47/result" />
+      <recent name="$PROJECT_DIR$/runs_paper/PlanarQuadEnv-v0_ttr_18-Feb-2019_09-00-16/result" />
+      <recent name="$PROJECT_DIR$/runs_paper" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pieces" />
       <recent name="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_10-Feb-2019_18-54-24/figure" />
       <recent name="$PROJECT_DIR$/utils" />
       <recent name="$PROJECT_DIR$/runs/DubinsCarEnv-v0_ttr_01-Feb-2019_16-49-42/result" />
       <recent name="$PROJECT_DIR$/runs/DubinsCarEnv-v0_hand_craft_01-Feb-2019_12-04-57/result" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/runs_reborn" />
-      <recent name="$PROJECT_DIR$/runs_paper/PlanarQuadEnv-v0_ttr_18-Feb-2019_19-10-47/result" />
-      <recent name="$PROJECT_DIR$/runs_paper/PlanarQuadEnv-v0_ttr_18-Feb-2019_09-00-16/result" />
-      <recent name="$PROJECT_DIR$/runs_paper" />
-      <recent name="$PROJECT_DIR$/runs/PlanarQuadEnv-v0_hand_craft_19-Feb-2019_10-22-25" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -540,12 +514,12 @@
       <workItem from="1551316995164" duration="2807000" />
       <workItem from="1551319903175" duration="40761000" />
       <workItem from="1551760672257" duration="1412000" />
-      <workItem from="1552504439980" duration="16780000" />
+      <workItem from="1552504439980" duration="22747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="651551000" />
+    <option name="totallyTimeSpent" value="657518000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -559,12 +533,12 @@
   <component name="ToolWindowManager">
     <frame x="1919" y="24" width="1922" height="1033" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49951503" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49951503" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50048494" side_tool="true" weight="0.22547974" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.328807" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.35345775" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.62788147" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.50436467" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -624,16 +598,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/runs/PlanarQuadEnv_dqn-v0_ttr_19-Feb-2019_21-11-18/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/runs/PlanarQuadEnv-v0_hand_craft_19-Feb-2019_09-42-02/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -943,13 +907,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/batchOps.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ppo1_utils/pposgd_simple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -957,11 +914,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/runs_reborn/PlanarQuadEnv-v0_ttr_15-Mar-2019_16-03-50/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+            <caret column="72" selection-start-column="72" selection-end-column="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs_reborn/PlanarQuadEnv-v0_ttr_15-Mar-2019_15-08-22/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="20" selection-start-column="20" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
@@ -969,8 +943,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gym-foo/gym_foo/envs/PlanarQuadEnv_v0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="530" column="28" lean-forward="true" selection-start-line="530" selection-start-column="28" selection-end-line="530" selection-end-column="28" />
+        <state relative-caret-position="-2631">
+          <caret line="549" column="48" selection-start-line="549" selection-start-column="48" selection-end-line="549" selection-end-column="48" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
             <element signature="e#729#804#0" />
@@ -978,10 +952,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/batchOps.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="72">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
         </state>
       </provider>
     </entry>
