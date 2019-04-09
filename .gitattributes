@@ -1,0 +1,4 @@
+runs/** filter=lfs diff=lfs merge=lfs -text
+runs_addition/** filter=lfs diff=lfs merge=lfs -text
+runs_reborn/** filter=lfs diff=lfs merge=lfs -text
+runs_paper/** filter=lfs diff=lfs merge=lfs -text
