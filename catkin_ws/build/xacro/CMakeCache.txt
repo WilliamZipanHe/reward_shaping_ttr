@@ -221,7 +221,7 @@ LSB_RELEASE_EXECUTABLE:FILEPATH=LSB_RELEASE_EXECUTABLE-NOTFOUND
 NOSETESTS:FILEPATH=/usr/bin/nosetests3
 
 //Path to a program.
-PYTHON_EXECUTABLE:FILEPATH=/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python
+PYTHON_EXECUTABLE:FILEPATH=/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python3.5
 
 //Specify specific Python version to use ('major.minor' or 'major')
 PYTHON_VERSION:STRING=
@@ -443,7 +443,7 @@ CMAKE_UNAME:INTERNAL=/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //Details about finding PythonInterp
-FIND_PACKAGE_MESSAGE_DETAILS_PythonInterp:INTERNAL=[/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python][v3.5.6()]
+FIND_PACKAGE_MESSAGE_DETAILS_PythonInterp:INTERNAL=[/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python3.5][v3.5.6()]
 //Details about finding Threads
 FIND_PACKAGE_MESSAGE_DETAILS_Threads:INTERNAL=[TRUE][v()]
 GMOCK_FROM_SOURCE_FOUND:INTERNAL=TRUE

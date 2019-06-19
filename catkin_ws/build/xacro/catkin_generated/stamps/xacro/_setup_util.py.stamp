@@ -1,4 +1,4 @@
-#!/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python
+#!/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python3.5
 # -*- coding: utf-8 -*-
 
 # Software License Agreement (BSD License)

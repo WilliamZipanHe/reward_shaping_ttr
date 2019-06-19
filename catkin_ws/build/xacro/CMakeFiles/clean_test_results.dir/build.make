@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro
 include CMakeFiles/clean_test_results.dir/progress.make
 
 CMakeFiles/clean_test_results:
-	/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro/test_results
+	/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python3.5 /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro/test_results
 
 clean_test_results: CMakeFiles/clean_test_results
 clean_test_results: CMakeFiles/clean_test_results.dir/build.make

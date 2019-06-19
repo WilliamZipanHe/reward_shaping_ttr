@@ -25,7 +25,7 @@ echo_and_run mkdir -p "$DESTDIR/local-scratch/xlv/reward_shaping_ttr/catkin_ws/i
 echo_and_run /usr/bin/env \
     PYTHONPATH="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/install/lib/python3/dist-packages:/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro/lib/python3/dist-packages:$PYTHONPATH" \
     CATKIN_BINARY_DIR="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro" \
-    "/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python" \
+    "/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python3.5" \
     "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/xacro/setup.py" \
     build --build-base "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro" \
     install \

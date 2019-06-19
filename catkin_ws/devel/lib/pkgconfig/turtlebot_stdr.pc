@@ -1,0 +1,1 @@
+/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/turtlebot_stdr/lib/pkgconfig/turtlebot_stdr.pc
