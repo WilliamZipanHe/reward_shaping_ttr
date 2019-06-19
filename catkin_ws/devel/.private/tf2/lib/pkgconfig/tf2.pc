@@ -1,0 +1,8 @@
+prefix=/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2
+
+Name: tf2
+Description: Description of tf2
+Version: 0.6.5
+Cflags: -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2/include -I/usr/include
+Libs: -L/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2/lib -ltf2 /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
+Requires: geometry_msgs tf2_msgs rostime

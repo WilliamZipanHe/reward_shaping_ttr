@@ -1,0 +1,8 @@
+prefix=/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_msgs
+
+Name: tf2_msgs
+Description: Description of tf2_msgs
+Version: 0.6.5
+Cflags: -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_msgs/include -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_msgs/include
+Libs: -L/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_msgs/lib 
+Requires: message_generation geometry_msgs actionlib_msgs

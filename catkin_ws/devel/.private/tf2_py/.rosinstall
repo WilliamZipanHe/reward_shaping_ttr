@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_py/setup.sh
