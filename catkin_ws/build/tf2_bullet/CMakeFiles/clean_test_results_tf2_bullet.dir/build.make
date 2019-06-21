@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_bullet
+CMAKE_SOURCE_DIR = /local-scratch/xlv/catkin_ws/src/geometry2/tf2_bullet
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf2_bullet
+CMAKE_BINARY_DIR = /local-scratch/xlv/catkin_ws/build/tf2_bullet
 
 # Utility rule file for clean_test_results_tf2_bullet.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf2_bul
 include CMakeFiles/clean_test_results_tf2_bullet.dir/progress.make
 
 CMakeFiles/clean_test_results_tf2_bullet:
-	/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf2_bullet/test_results/tf2_bullet
+	/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python3.5 /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py /local-scratch/xlv/catkin_ws/build/tf2_bullet/test_results/tf2_bullet
 
 clean_test_results_tf2_bullet: CMakeFiles/clean_test_results_tf2_bullet
 clean_test_results_tf2_bullet: CMakeFiles/clean_test_results_tf2_bullet.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/clean_test_results_tf2_bullet.dir/clean:
 .PHONY : CMakeFiles/clean_test_results_tf2_bullet.dir/clean
 
 CMakeFiles/clean_test_results_tf2_bullet.dir/depend:
-	cd /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf2_bullet && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_bullet /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_bullet /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf2_bullet /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf2_bullet /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf2_bullet/CMakeFiles/clean_test_results_tf2_bullet.dir/DependInfo.cmake --color=$(COLOR)
+	cd /local-scratch/xlv/catkin_ws/build/tf2_bullet && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /local-scratch/xlv/catkin_ws/src/geometry2/tf2_bullet /local-scratch/xlv/catkin_ws/src/geometry2/tf2_bullet /local-scratch/xlv/catkin_ws/build/tf2_bullet /local-scratch/xlv/catkin_ws/build/tf2_bullet /local-scratch/xlv/catkin_ws/build/tf2_bullet/CMakeFiles/clean_test_results_tf2_bullet.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/clean_test_results_tf2_bullet.dir/depend
 

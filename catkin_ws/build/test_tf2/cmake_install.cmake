@@ -1,8 +1,8 @@
-# Install script for directory: /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/test_tf2
+# Install script for directory: /local-scratch/xlv/catkin_ws/src/geometry2/test_tf2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/local-scratch/xlv/catkin_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/test_tf2/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/local-scratch/xlv/catkin_ws/build/test_tf2/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

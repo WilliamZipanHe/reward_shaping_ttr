@@ -1,4 +1,4 @@
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-gazebo.sh
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig-version.cmake
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig.cmake
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/lib/pkgconfig/turtlebot_gazebo.pc
+Symlinking /local-scratch/xlv/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-gazebo.sh
+Symlinking /local-scratch/xlv/catkin_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig-version.cmake
+Symlinking /local-scratch/xlv/catkin_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig.cmake
+Symlinking /local-scratch/xlv/catkin_ws/devel/lib/pkgconfig/turtlebot_gazebo.pc

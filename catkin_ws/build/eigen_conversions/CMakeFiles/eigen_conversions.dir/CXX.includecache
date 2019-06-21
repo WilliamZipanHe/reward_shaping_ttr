@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/eigen_conversions/include/eigen_conversions/eigen_kdl.h
+/local-scratch/xlv/catkin_ws/src/geometry/eigen_conversions/include/eigen_conversions/eigen_kdl.h
 Eigen/Core
 -
 Eigen/Geometry
@@ -14,7 +14,7 @@ Eigen/Geometry
 kdl/frames.hpp
 -
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/eigen_conversions/include/eigen_conversions/eigen_msg.h
+/local-scratch/xlv/catkin_ws/src/geometry/eigen_conversions/include/eigen_conversions/eigen_msg.h
 std_msgs/Float64MultiArray.h
 -
 geometry_msgs/Point.h
@@ -36,11 +36,11 @@ Eigen/Core
 Eigen/Geometry
 -
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/eigen_conversions/src/eigen_kdl.cpp
+/local-scratch/xlv/catkin_ws/src/geometry/eigen_conversions/src/eigen_kdl.cpp
 eigen_conversions/eigen_kdl.h
 -
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/eigen_conversions/src/eigen_msg.cpp
+/local-scratch/xlv/catkin_ws/src/geometry/eigen_conversions/src/eigen_msg.cpp
 eigen_conversions/eigen_msg.h
 -
 

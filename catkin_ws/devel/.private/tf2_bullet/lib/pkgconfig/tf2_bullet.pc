@@ -1,8 +1,8 @@
-prefix=/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_bullet
+prefix=/local-scratch/xlv/catkin_ws/devel/.private/tf2_bullet
 
 Name: tf2_bullet
 Description: Description of tf2_bullet
 Version: 0.6.5
-Cflags: -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_bullet/include -I/usr/include/bullet
-Libs: -L/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_bullet/lib 
+Cflags: -I/local-scratch/xlv/catkin_ws/src/geometry2/tf2_bullet/include -I/usr/include/bullet
+Libs: -L/local-scratch/xlv/catkin_ws/devel/.private/tf2_bullet/lib 
 Requires: 

@@ -1,8 +1,8 @@
-prefix=/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_py
+prefix=/local-scratch/xlv/catkin_ws/devel/.private/tf2_py
 
 Name: tf2_py
 Description: Description of tf2_py
 Version: 0.6.5
 Cflags: 
-Libs: -L/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_py/lib 
+Libs: -L/local-scratch/xlv/catkin_ws/devel/.private/tf2_py/lib 
 Requires: rospy tf2

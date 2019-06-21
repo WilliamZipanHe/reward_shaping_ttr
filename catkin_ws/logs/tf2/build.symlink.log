@@ -1,4 +1,4 @@
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/share/tf2/cmake/tf2Config-version.cmake
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/share/tf2/cmake/tf2Config.cmake
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/lib/libtf2.so
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/lib/pkgconfig/tf2.pc
+Symlinking /local-scratch/xlv/catkin_ws/devel/share/tf2/cmake/tf2Config-version.cmake
+Symlinking /local-scratch/xlv/catkin_ws/devel/share/tf2/cmake/tf2Config.cmake
+Symlinking /local-scratch/xlv/catkin_ws/devel/lib/libtf2.so
+Symlinking /local-scratch/xlv/catkin_ws/devel/lib/pkgconfig/tf2.pc

@@ -67,14 +67,14 @@ set(eigen_conversions_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
-  set(eigen_conversions_SOURCE_PREFIX /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/eigen_conversions)
-  set(eigen_conversions_DEVEL_PREFIX /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/eigen_conversions)
+  set(eigen_conversions_SOURCE_PREFIX /local-scratch/xlv/catkin_ws/src/geometry/eigen_conversions)
+  set(eigen_conversions_DEVEL_PREFIX /local-scratch/xlv/catkin_ws/devel/.private/eigen_conversions)
   set(eigen_conversions_INSTALL_PREFIX "")
   set(eigen_conversions_PREFIX ${eigen_conversions_DEVEL_PREFIX})
 else()
   set(eigen_conversions_SOURCE_PREFIX "")
   set(eigen_conversions_DEVEL_PREFIX "")
-  set(eigen_conversions_INSTALL_PREFIX /local-scratch/xlv/reward_shaping_ttr/catkin_ws/install)
+  set(eigen_conversions_INSTALL_PREFIX /local-scratch/xlv/catkin_ws/install)
   set(eigen_conversions_PREFIX ${eigen_conversions_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(eigen_conversions_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/eigen_conversions/include;/usr/include/eigen3;/opt/ros/kinetic/include " STREQUAL " ")
+if(NOT "/local-scratch/xlv/catkin_ws/src/geometry/eigen_conversions/include;/usr/include/eigen3;/opt/ros/kinetic/include " STREQUAL " ")
   set(eigen_conversions_INCLUDE_DIRS "")
-  set(_include_dirs "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/eigen_conversions/include;/usr/include/eigen3;/opt/ros/kinetic/include")
+  set(_include_dirs "/local-scratch/xlv/catkin_ws/src/geometry/eigen_conversions/include;/usr/include/eigen3;/opt/ros/kinetic/include")
   if(NOT " " STREQUAL " ")
     set(_report "Check the issue tracker '' and consider creating a ticket if the problem has not been reported yet.")
   elseif(NOT "http://ros.org/wiki/eigen_conversions " STREQUAL " ")
@@ -110,7 +110,7 @@ if(NOT "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/eigen_conve
         message(FATAL_ERROR "Project 'eigen_conversions' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  ${_report}")
       endif()
     else()
-      message(FATAL_ERROR "Project 'eigen_conversions' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/eigen_conversions/${idir}'.  ${_report}")
+      message(FATAL_ERROR "Project 'eigen_conversions' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/local-scratch/xlv/catkin_ws/src/geometry/eigen_conversions/${idir}'.  ${_report}")
     endif()
     _list_append_unique(eigen_conversions_INCLUDE_DIRS ${include})
   endforeach()
@@ -129,7 +129,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/eigen_conversions/lib;/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/lib;/opt/ros/kinetic/lib)
+    foreach(path /local-scratch/xlv/catkin_ws/devel/.private/eigen_conversions/lib;/local-scratch/xlv/catkin_ws/devel/lib;/opt/ros/kinetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

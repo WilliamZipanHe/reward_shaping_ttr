@@ -1,8 +1,8 @@
-prefix=/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf
+prefix=/local-scratch/xlv/catkin_ws/devel/.private/tf
 
 Name: tf
 Description: Description of tf
 Version: 1.12.0
-Cflags: -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf/include -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include
-Libs: -L/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf/lib -ltf
+Cflags: -I/local-scratch/xlv/catkin_ws/devel/.private/tf/include -I/local-scratch/xlv/catkin_ws/src/geometry/tf/include
+Libs: -L/local-scratch/xlv/catkin_ws/devel/.private/tf/lib -ltf
 Requires: geometry_msgs message_filters message_runtime roscpp sensor_msgs std_msgs tf2_ros rosconsole

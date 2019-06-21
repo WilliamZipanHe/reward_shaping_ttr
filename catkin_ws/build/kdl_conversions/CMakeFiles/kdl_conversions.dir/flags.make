@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIC
 
 CXX_DEFINES = -Dkdl_conversions_EXPORTS
 
-CXX_INCLUDES = -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/kdl_conversions/include -I/opt/ros/kinetic/include -I/usr/include/eigen3 
+CXX_INCLUDES = -I/local-scratch/xlv/catkin_ws/src/geometry/kdl_conversions/include -I/opt/ros/kinetic/include -I/usr/include/eigen3 
 

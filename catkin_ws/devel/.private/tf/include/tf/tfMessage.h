@@ -71,13 +71,23 @@ namespace message_traits
 
 
 
-// BOOLTRAITS {'HasHeader': False, 'IsMessage': True, 'IsFixedSize': False}
-// {'tf': ['/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/msg'], 'geometry_msgs': ['/opt/ros/kinetic/share/geometry_msgs/cmake/../msg'], 'std_msgs': ['/opt/ros/kinetic/share/std_msgs/cmake/../msg'], 'sensor_msgs': ['/opt/ros/kinetic/share/sensor_msgs/cmake/../msg']}
+// BOOLTRAITS {'IsFixedSize': False, 'HasHeader': False, 'IsMessage': True}
+// {'std_msgs': ['/opt/ros/kinetic/share/std_msgs/cmake/../msg'], 'geometry_msgs': ['/opt/ros/kinetic/share/geometry_msgs/cmake/../msg'], 'sensor_msgs': ['/opt/ros/kinetic/share/sensor_msgs/cmake/../msg'], 'tf': ['/local-scratch/xlv/catkin_ws/src/geometry/tf/msg']}
 
 // !!!!!!!!!!! ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_parsed_fields', 'constants', 'fields', 'full_name', 'has_header', 'header_present', 'names', 'package', 'parsed_fields', 'short_name', 'text', 'types']
 
 
 
+
+template <class ContainerAllocator>
+struct IsFixedSize< ::tf::tfMessage_<ContainerAllocator> >
+  : FalseType
+  { };
+
+template <class ContainerAllocator>
+struct IsFixedSize< ::tf::tfMessage_<ContainerAllocator> const>
+  : FalseType
+  { };
 
 template <class ContainerAllocator>
 struct HasHeader< ::tf::tfMessage_<ContainerAllocator> >
@@ -97,16 +107,6 @@ struct IsMessage< ::tf::tfMessage_<ContainerAllocator> >
 template <class ContainerAllocator>
 struct IsMessage< ::tf::tfMessage_<ContainerAllocator> const>
   : TrueType
-  { };
-
-template <class ContainerAllocator>
-struct IsFixedSize< ::tf::tfMessage_<ContainerAllocator> >
-  : FalseType
-  { };
-
-template <class ContainerAllocator>
-struct IsFixedSize< ::tf::tfMessage_<ContainerAllocator> const>
-  : FalseType
   { };
 
 

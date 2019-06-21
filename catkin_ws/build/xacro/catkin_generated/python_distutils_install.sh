@@ -14,20 +14,20 @@ fi
 
 echo_and_run() { echo "+ $@" ; "$@" ; }
 
-echo_and_run cd "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/xacro"
+echo_and_run cd "/local-scratch/xlv/catkin_ws/src/xacro"
 
 # ensure that Python install destination exists
-echo_and_run mkdir -p "$DESTDIR/local-scratch/xlv/reward_shaping_ttr/catkin_ws/install/lib/python3/dist-packages"
+echo_and_run mkdir -p "$DESTDIR/local-scratch/xlv/catkin_ws/install/lib/python3/dist-packages"
 
 # Note that PYTHONPATH is pulled from the environment to support installing
 # into one location when some dependencies were installed in another
 # location, #123.
 echo_and_run /usr/bin/env \
-    PYTHONPATH="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/install/lib/python3/dist-packages:/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro/lib/python3/dist-packages:$PYTHONPATH" \
-    CATKIN_BINARY_DIR="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro" \
+    PYTHONPATH="/local-scratch/xlv/catkin_ws/install/lib/python3/dist-packages:/local-scratch/xlv/catkin_ws/build/xacro/lib/python3/dist-packages:$PYTHONPATH" \
+    CATKIN_BINARY_DIR="/local-scratch/xlv/catkin_ws/build/xacro" \
     "/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python3.5" \
-    "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/xacro/setup.py" \
-    build --build-base "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro" \
+    "/local-scratch/xlv/catkin_ws/src/xacro/setup.py" \
+    build --build-base "/local-scratch/xlv/catkin_ws/build/xacro" \
     install \
     $DESTDIR_ARG \
-    --install-layout=deb --prefix="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/install" --install-scripts="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/install/bin"
+    --install-layout=deb --prefix="/local-scratch/xlv/catkin_ws/install" --install-scripts="/local-scratch/xlv/catkin_ws/install/bin"

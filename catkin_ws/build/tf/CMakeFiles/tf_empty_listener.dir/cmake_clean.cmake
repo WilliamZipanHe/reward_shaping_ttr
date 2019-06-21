@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tf_empty_listener.dir/src/empty_listener.cpp.o"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf/lib/tf/tf_empty_listener.pdb"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf/lib/tf/tf_empty_listener"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf/lib/tf/tf_empty_listener.pdb"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf/lib/tf/tf_empty_listener"
 )
 
 # Per-language clean rules from dependency scanning.

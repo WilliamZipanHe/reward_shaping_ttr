@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/local-scratch/xlv/catkin_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf/gtest/gtest/cmake_install.cmake")
+  include("/local-scratch/xlv/catkin_ws/build/tf/gtest/gtest/cmake_install.cmake")
 
 endif()
 

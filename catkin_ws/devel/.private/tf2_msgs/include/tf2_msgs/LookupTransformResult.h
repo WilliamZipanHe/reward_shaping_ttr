@@ -77,8 +77,8 @@ namespace message_traits
 
 
 
-// BOOLTRAITS {'HasHeader': False, 'IsFixedSize': False, 'IsMessage': True}
-// {'std_msgs': ['/opt/ros/kinetic/share/std_msgs/cmake/../msg'], 'actionlib_msgs': ['/opt/ros/kinetic/share/actionlib_msgs/cmake/../msg'], 'geometry_msgs': ['/opt/ros/kinetic/share/geometry_msgs/cmake/../msg'], 'tf2_msgs': ['/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_msgs/msg', '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_msgs/share/tf2_msgs/msg']}
+// BOOLTRAITS {'HasHeader': False, 'IsMessage': True, 'IsFixedSize': False}
+// {'std_msgs': ['/opt/ros/kinetic/share/std_msgs/cmake/../msg'], 'actionlib_msgs': ['/opt/ros/kinetic/share/actionlib_msgs/cmake/../msg'], 'geometry_msgs': ['/opt/ros/kinetic/share/geometry_msgs/cmake/../msg'], 'tf2_msgs': ['/local-scratch/xlv/catkin_ws/src/geometry2/tf2_msgs/msg', '/local-scratch/xlv/catkin_ws/devel/.private/tf2_msgs/share/tf2_msgs/msg']}
 
 // !!!!!!!!!!! ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_parsed_fields', 'constants', 'fields', 'full_name', 'has_header', 'header_present', 'names', 'package', 'parsed_fields', 'short_name', 'text', 'types']
 
@@ -96,16 +96,6 @@ struct HasHeader< ::tf2_msgs::LookupTransformResult_<ContainerAllocator> const>
   { };
 
 template <class ContainerAllocator>
-struct IsFixedSize< ::tf2_msgs::LookupTransformResult_<ContainerAllocator> >
-  : FalseType
-  { };
-
-template <class ContainerAllocator>
-struct IsFixedSize< ::tf2_msgs::LookupTransformResult_<ContainerAllocator> const>
-  : FalseType
-  { };
-
-template <class ContainerAllocator>
 struct IsMessage< ::tf2_msgs::LookupTransformResult_<ContainerAllocator> >
   : TrueType
   { };
@@ -113,6 +103,16 @@ struct IsMessage< ::tf2_msgs::LookupTransformResult_<ContainerAllocator> >
 template <class ContainerAllocator>
 struct IsMessage< ::tf2_msgs::LookupTransformResult_<ContainerAllocator> const>
   : TrueType
+  { };
+
+template <class ContainerAllocator>
+struct IsFixedSize< ::tf2_msgs::LookupTransformResult_<ContainerAllocator> >
+  : FalseType
+  { };
+
+template <class ContainerAllocator>
+struct IsFixedSize< ::tf2_msgs::LookupTransformResult_<ContainerAllocator> const>
+  : FalseType
   { };
 
 

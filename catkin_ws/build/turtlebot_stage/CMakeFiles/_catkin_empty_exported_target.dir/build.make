@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/turtlebot_simulator/turtlebot_stage
+CMAKE_SOURCE_DIR = /local-scratch/xlv/catkin_ws/src/turtlebot_simulator/turtlebot_stage
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_stage
+CMAKE_BINARY_DIR = /local-scratch/xlv/catkin_ws/build/turtlebot_stage
 
 # Utility rule file for _catkin_empty_exported_target.
 
@@ -67,6 +67,6 @@ CMakeFiles/_catkin_empty_exported_target.dir/clean:
 .PHONY : CMakeFiles/_catkin_empty_exported_target.dir/clean
 
 CMakeFiles/_catkin_empty_exported_target.dir/depend:
-	cd /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_stage && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/turtlebot_simulator/turtlebot_stage /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/turtlebot_simulator/turtlebot_stage /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_stage /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_stage /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_stage/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake --color=$(COLOR)
+	cd /local-scratch/xlv/catkin_ws/build/turtlebot_stage && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /local-scratch/xlv/catkin_ws/src/turtlebot_simulator/turtlebot_stage /local-scratch/xlv/catkin_ws/src/turtlebot_simulator/turtlebot_stage /local-scratch/xlv/catkin_ws/build/turtlebot_stage /local-scratch/xlv/catkin_ws/build/turtlebot_stage /local-scratch/xlv/catkin_ws/build/turtlebot_stage/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/_catkin_empty_exported_target.dir/depend
 

@@ -2,7 +2,7 @@
 DEVELSPACE = 'TRUE' == 'TRUE'
 INSTALLSPACE = 'FALSE' == 'TRUE'
 
-CATKIN_DEVEL_PREFIX = '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/xacro'
+CATKIN_DEVEL_PREFIX = '/local-scratch/xlv/catkin_ws/devel/.private/xacro'
 
 CATKIN_GLOBAL_BIN_DESTINATION = 'bin'
 CATKIN_GLOBAL_ETC_DESTINATION = 'etc'
@@ -20,14 +20,14 @@ CATKIN_PACKAGE_LIBEXEC_DESTINATION = ''
 CATKIN_PACKAGE_PYTHON_DESTINATION = 'lib/python3/dist-packages/xacro'
 CATKIN_PACKAGE_SHARE_DESTINATION = 'share/xacro'
 
-CMAKE_BINARY_DIR = '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro'
-CMAKE_CURRENT_BINARY_DIR = '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro'
-CMAKE_CURRENT_SOURCE_DIR = '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/xacro'
-CMAKE_INSTALL_PREFIX = '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/install'
-CMAKE_SOURCE_DIR = '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/xacro'
+CMAKE_BINARY_DIR = '/local-scratch/xlv/catkin_ws/build/xacro'
+CMAKE_CURRENT_BINARY_DIR = '/local-scratch/xlv/catkin_ws/build/xacro'
+CMAKE_CURRENT_SOURCE_DIR = '/local-scratch/xlv/catkin_ws/src/xacro'
+CMAKE_INSTALL_PREFIX = '/local-scratch/xlv/catkin_ws/install'
+CMAKE_SOURCE_DIR = '/local-scratch/xlv/catkin_ws/src/xacro'
 
-PKG_CMAKE_DIR = '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/xacro/share/xacro/cmake'
+PKG_CMAKE_DIR = '/local-scratch/xlv/catkin_ws/devel/.private/xacro/share/xacro/cmake'
 
 PROJECT_NAME = 'xacro'
-PROJECT_BINARY_DIR = '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro'
-PROJECT_SOURCE_DIR = '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/xacro'
+PROJECT_BINARY_DIR = '/local-scratch/xlv/catkin_ws/build/xacro'
+PROJECT_SOURCE_DIR = '/local-scratch/xlv/catkin_ws/src/xacro'

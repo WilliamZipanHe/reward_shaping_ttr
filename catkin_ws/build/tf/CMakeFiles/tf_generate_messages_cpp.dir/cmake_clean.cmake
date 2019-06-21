@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tf_generate_messages_cpp"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf/include/tf/tfMessage.h"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf/include/tf/FrameGraph.h"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf/include/tf/tfMessage.h"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf/include/tf/FrameGraph.h"
 )
 
 # Per-language clean rules from dependency scanning.

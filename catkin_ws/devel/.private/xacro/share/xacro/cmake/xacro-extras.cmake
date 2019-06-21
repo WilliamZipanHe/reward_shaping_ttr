@@ -1,5 +1,5 @@
 set(_xacro_py
-  /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/xacro/scripts/xacro
+  /local-scratch/xlv/catkin_ws/src/xacro/scripts/xacro
   )
 
 add_custom_target(${PROJECT_NAME}_xacro_generated_to_devel_space_ ALL)

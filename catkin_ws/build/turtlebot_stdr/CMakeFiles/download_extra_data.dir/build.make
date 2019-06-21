@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/turtlebot_simulator/turtlebot_stdr
+CMAKE_SOURCE_DIR = /local-scratch/xlv/catkin_ws/src/turtlebot_simulator/turtlebot_stdr
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_stdr
+CMAKE_BINARY_DIR = /local-scratch/xlv/catkin_ws/build/turtlebot_stdr
 
 # Utility rule file for download_extra_data.
 
@@ -67,6 +67,6 @@ CMakeFiles/download_extra_data.dir/clean:
 .PHONY : CMakeFiles/download_extra_data.dir/clean
 
 CMakeFiles/download_extra_data.dir/depend:
-	cd /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_stdr && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/turtlebot_simulator/turtlebot_stdr /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/turtlebot_simulator/turtlebot_stdr /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_stdr /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_stdr /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_stdr/CMakeFiles/download_extra_data.dir/DependInfo.cmake --color=$(COLOR)
+	cd /local-scratch/xlv/catkin_ws/build/turtlebot_stdr && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /local-scratch/xlv/catkin_ws/src/turtlebot_simulator/turtlebot_stdr /local-scratch/xlv/catkin_ws/src/turtlebot_simulator/turtlebot_stdr /local-scratch/xlv/catkin_ws/build/turtlebot_stdr /local-scratch/xlv/catkin_ws/build/turtlebot_stdr /local-scratch/xlv/catkin_ws/build/turtlebot_stdr/CMakeFiles/download_extra_data.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/download_extra_data.dir/depend
 

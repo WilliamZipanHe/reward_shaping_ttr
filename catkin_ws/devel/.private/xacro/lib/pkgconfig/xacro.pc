@@ -1,8 +1,8 @@
-prefix=/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/xacro
+prefix=/local-scratch/xlv/catkin_ws/devel/.private/xacro
 
 Name: xacro
 Description: Description of xacro
 Version: 1.13.3
 Cflags: 
-Libs: -L/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/xacro/lib 
+Libs: -L/local-scratch/xlv/catkin_ws/devel/.private/xacro/lib 
 Requires: 

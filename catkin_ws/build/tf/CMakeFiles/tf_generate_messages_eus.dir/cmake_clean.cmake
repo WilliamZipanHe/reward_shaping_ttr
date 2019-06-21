@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tf_generate_messages_eus"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf/share/roseus/ros/tf/msg/tfMessage.l"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf/share/roseus/ros/tf/srv/FrameGraph.l"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf/share/roseus/ros/tf/manifest.l"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf/share/roseus/ros/tf/msg/tfMessage.l"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf/share/roseus/ros/tf/srv/FrameGraph.l"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf/share/roseus/ros/tf/manifest.l"
 )
 
 # Per-language clean rules from dependency scanning.

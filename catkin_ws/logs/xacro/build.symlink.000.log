@@ -1,6 +1,6 @@
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/bin/xacro
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/share/xacro/cmake/xacroConfig-version.cmake
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/share/xacro/cmake/xacro-extras.cmake
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/share/xacro/cmake/xacroConfig.cmake
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/lib/python3/dist-packages/xacro/__init__.py
-Symlinking /local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/lib/pkgconfig/xacro.pc
+Symlinking /local-scratch/xlv/catkin_ws/devel/bin/xacro
+Symlinking /local-scratch/xlv/catkin_ws/devel/share/xacro/cmake/xacroConfig-version.cmake
+Symlinking /local-scratch/xlv/catkin_ws/devel/share/xacro/cmake/xacro-extras.cmake
+Symlinking /local-scratch/xlv/catkin_ws/devel/share/xacro/cmake/xacroConfig.cmake
+Symlinking /local-scratch/xlv/catkin_ws/devel/lib/python3/dist-packages/xacro/__init__.py
+Symlinking /local-scratch/xlv/catkin_ws/devel/lib/pkgconfig/xacro.pc

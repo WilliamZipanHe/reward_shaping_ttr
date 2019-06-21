@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/turtlebot_simulator/turtlebot_gazebo
+CMAKE_SOURCE_DIR = /local-scratch/xlv/catkin_ws/src/turtlebot_simulator/turtlebot_gazebo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_gazebo
+CMAKE_BINARY_DIR = /local-scratch/xlv/catkin_ws/build/turtlebot_gazebo
 
 # Utility rule file for run_tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/run_tests.dir/clean:
 .PHONY : CMakeFiles/run_tests.dir/clean
 
 CMakeFiles/run_tests.dir/depend:
-	cd /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_gazebo && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/turtlebot_simulator/turtlebot_gazebo /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/turtlebot_simulator/turtlebot_gazebo /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_gazebo /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_gazebo /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/turtlebot_gazebo/CMakeFiles/run_tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /local-scratch/xlv/catkin_ws/build/turtlebot_gazebo && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /local-scratch/xlv/catkin_ws/src/turtlebot_simulator/turtlebot_gazebo /local-scratch/xlv/catkin_ws/src/turtlebot_simulator/turtlebot_gazebo /local-scratch/xlv/catkin_ws/build/turtlebot_gazebo /local-scratch/xlv/catkin_ws/build/turtlebot_gazebo /local-scratch/xlv/catkin_ws/build/turtlebot_gazebo/CMakeFiles/run_tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/run_tests.dir/depend
 

@@ -1,8 +1,8 @@
-prefix=/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/hector_components_description
+prefix=/local-scratch/xlv/catkin_ws/devel/.private/hector_components_description
 
 Name: hector_components_description
 Description: Description of hector_components_description
 Version: 0.5.0
 Cflags: 
-Libs: -L/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/hector_components_description/lib 
+Libs: -L/local-scratch/xlv/catkin_ws/devel/.private/hector_components_description/lib 
 Requires: 

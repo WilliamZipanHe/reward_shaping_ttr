@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "hector_xacro_tools"
-PROJECT_SPACE_DIR = "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/hector_xacro_tools"
+PROJECT_SPACE_DIR = "/local-scratch/xlv/catkin_ws/devel/.private/hector_xacro_tools"
 PROJECT_VERSION = "0.5.0"

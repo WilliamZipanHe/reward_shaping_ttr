@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/kdl_conversions/include/kdl_conversions/kdl_msg.h
+/local-scratch/xlv/catkin_ws/src/geometry/kdl_conversions/include/kdl_conversions/kdl_msg.h
 kdl/frames.hpp
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/kdl_conversions/include/kdl_conversions/kdl/frames.hpp
+/local-scratch/xlv/catkin_ws/src/geometry/kdl_conversions/include/kdl_conversions/kdl/frames.hpp
 geometry_msgs/Point.h
 -
 geometry_msgs/Pose.h
@@ -26,9 +26,9 @@ geometry_msgs/Wrench.h
 ros/macros.h
 -
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/kdl_conversions/src/kdl_msg.cpp
+/local-scratch/xlv/catkin_ws/src/geometry/kdl_conversions/src/kdl_msg.cpp
 kdl_conversions/kdl_msg.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/kdl_conversions/src/kdl_conversions/kdl_msg.h
+/local-scratch/xlv/catkin_ws/src/geometry/kdl_conversions/src/kdl_conversions/kdl_msg.h
 
 /opt/ros/kinetic/include/geometry_msgs/Point.h
 string

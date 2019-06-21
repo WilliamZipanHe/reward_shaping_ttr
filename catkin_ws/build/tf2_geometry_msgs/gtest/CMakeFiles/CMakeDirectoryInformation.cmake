@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/usr/src/gmock")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf2_geometry_msgs")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/local-scratch/xlv/catkin_ws/build/tf2_geometry_msgs")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

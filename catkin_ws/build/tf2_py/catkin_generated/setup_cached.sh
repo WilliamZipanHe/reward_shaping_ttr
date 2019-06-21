@@ -7,8 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_py:$CMAKE_PREFIX_PATH"
-export PWD="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf2_py"
-export PYTHONPATH="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/lib/python3/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages"
-export ROSLISP_PACKAGE_DIRECTORIES="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_py/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_py:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/local-scratch/xlv/catkin_ws/devel/.private/tf2_py:$CMAKE_PREFIX_PATH"
+export PWD="/local-scratch/xlv/catkin_ws/build/tf2_py"
+export ROSLISP_PACKAGE_DIRECTORIES="/local-scratch/xlv/catkin_ws/devel/.private/tf2_py/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/local-scratch/xlv/catkin_ws/src/geometry2/tf2_py:$ROS_PACKAGE_PATH"

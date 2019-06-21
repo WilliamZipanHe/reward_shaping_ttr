@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/test_static_cache_unittest.dir/test/static_cache_test.cpp.o"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2/lib/tf2/test_static_cache_unittest.pdb"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2/lib/tf2/test_static_cache_unittest"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf2/lib/tf2/test_static_cache_unittest.pdb"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf2/lib/tf2/test_static_cache_unittest"
 )
 
 # Per-language clean rules from dependency scanning.

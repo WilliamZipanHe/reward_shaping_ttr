@@ -1,4 +1,4 @@
-#!/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python
+#!/local-scratch/xlv/miniconda3/envs/py35_no_specific/bin/python3.5
 # -*- coding: utf-8 -*-
 
 # Software License Agreement (BSD License)
@@ -262,7 +262,7 @@ if __name__ == '__main__':
             sys.exit(1)
 
         # environment at generation time
-        CMAKE_PREFIX_PATH = '/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel;/opt/ros/kinetic'.split(';')
+        CMAKE_PREFIX_PATH = '/local-scratch/xlv/catkin_ws/devel;/opt/ros/kinetic'.split(';')
         # prepend current workspace if not already part of CPP
         base_path = os.path.dirname(__file__)
         if base_path not in CMAKE_PREFIX_PATH:

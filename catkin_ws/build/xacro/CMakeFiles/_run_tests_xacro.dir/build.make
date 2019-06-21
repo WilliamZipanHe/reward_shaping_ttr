@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/xacro
+CMAKE_SOURCE_DIR = /local-scratch/xlv/catkin_ws/src/xacro
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro
+CMAKE_BINARY_DIR = /local-scratch/xlv/catkin_ws/build/xacro
 
 # Utility rule file for _run_tests_xacro.
 
@@ -67,6 +67,6 @@ CMakeFiles/_run_tests_xacro.dir/clean:
 .PHONY : CMakeFiles/_run_tests_xacro.dir/clean
 
 CMakeFiles/_run_tests_xacro.dir/depend:
-	cd /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/xacro /local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/xacro /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro /local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/xacro/CMakeFiles/_run_tests_xacro.dir/DependInfo.cmake --color=$(COLOR)
+	cd /local-scratch/xlv/catkin_ws/build/xacro && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /local-scratch/xlv/catkin_ws/src/xacro /local-scratch/xlv/catkin_ws/src/xacro /local-scratch/xlv/catkin_ws/build/xacro /local-scratch/xlv/catkin_ws/build/xacro /local-scratch/xlv/catkin_ws/build/xacro/CMakeFiles/_run_tests_xacro.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/_run_tests_xacro.dir/depend
 

@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIC   -g -Wno-missing-field-initializers
 
 CXX_DEFINES = -Dtf2_py_EXPORTS
 
-CXX_INCLUDES = -I/local-scratch/xlv/miniconda3/envs/py35_no_specific/include/python3.5m -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_msgs/include -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_msgs/include -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2/include -I/opt/ros/kinetic/include 
+CXX_INCLUDES = -I/local-scratch/xlv/miniconda3/envs/py35_no_specific/include/python3.5m -I/local-scratch/xlv/catkin_ws/devel/.private/tf2_msgs/include -I/local-scratch/xlv/catkin_ws/src/geometry2/tf2_msgs/include -I/local-scratch/xlv/catkin_ws/src/geometry2/tf2/include -I/opt/ros/kinetic/include 
 

@@ -1,1 +1,1 @@
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/turtlebot_stdr/etc/catkin/profile.d/25.turtlebot-stdr.sh
+/local-scratch/xlv/catkin_ws/devel/.private/turtlebot_stdr/etc/catkin/profile.d/25.turtlebot-stdr.sh

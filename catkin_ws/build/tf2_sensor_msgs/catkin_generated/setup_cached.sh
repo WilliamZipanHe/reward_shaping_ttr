@@ -7,8 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_sensor_msgs:$CMAKE_PREFIX_PATH"
-export PWD="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/build/tf2_sensor_msgs"
-export PYTHONPATH="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/lib/python3/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages"
-export ROSLISP_PACKAGE_DIRECTORIES="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_sensor_msgs/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_sensor_msgs:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/local-scratch/xlv/catkin_ws/devel/.private/tf2_sensor_msgs:$CMAKE_PREFIX_PATH"
+export PWD="/local-scratch/xlv/catkin_ws/build/tf2_sensor_msgs"
+export ROSLISP_PACKAGE_DIRECTORIES="/local-scratch/xlv/catkin_ws/devel/.private/tf2_sensor_msgs/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/local-scratch/xlv/catkin_ws/src/geometry2/tf2_sensor_msgs:$ROS_PACKAGE_PATH"

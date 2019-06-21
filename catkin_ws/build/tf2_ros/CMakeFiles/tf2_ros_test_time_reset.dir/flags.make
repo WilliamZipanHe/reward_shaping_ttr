@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\"tf2_ros\"
 
-CXX_INCLUDES = -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_ros/include -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_msgs/include -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2_msgs/include -I/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry2/tf2/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
+CXX_INCLUDES = -I/local-scratch/xlv/catkin_ws/src/geometry2/tf2_ros/include -I/local-scratch/xlv/catkin_ws/devel/.private/tf2_msgs/include -I/local-scratch/xlv/catkin_ws/src/geometry2/tf2_msgs/include -I/local-scratch/xlv/catkin_ws/src/geometry2/tf2/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
 

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tf2_ros_test_time_reset.dir/test/time_reset_test.cpp.o"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_ros/lib/tf2_ros/tf2_ros_test_time_reset.pdb"
-  "/local-scratch/xlv/reward_shaping_ttr/catkin_ws/devel/.private/tf2_ros/lib/tf2_ros/tf2_ros_test_time_reset"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf2_ros/lib/tf2_ros/tf2_ros_test_time_reset.pdb"
+  "/local-scratch/xlv/catkin_ws/devel/.private/tf2_ros/lib/tf2_ros/tf2_ros_test_time_reset"
 )
 
 # Per-language clean rules from dependency scanning.

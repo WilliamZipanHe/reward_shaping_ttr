@@ -252,15 +252,15 @@ _struct_I = genpy.struct_I
 def _get_struct_I():
     global _struct_I
     return _struct_I
-_struct_B = None
-def _get_struct_B():
-    global _struct_B
-    if _struct_B is None:
-        _struct_B = struct.Struct("<B")
-    return _struct_B
 _struct_2I2i2I = None
 def _get_struct_2I2i2I():
     global _struct_2I2i2I
     if _struct_2I2i2I is None:
         _struct_2I2i2I = struct.Struct("<2I2i2I")
     return _struct_2I2i2I
+_struct_B = None
+def _get_struct_B():
+    global _struct_B
+    if _struct_B is None:
+        _struct_B = struct.Struct("<B")
+    return _struct_B

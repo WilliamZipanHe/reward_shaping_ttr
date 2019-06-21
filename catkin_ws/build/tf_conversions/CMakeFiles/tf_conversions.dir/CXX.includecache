@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/kdl_conversions/include/kdl_conversions/kdl_msg.h
+/local-scratch/xlv/catkin_ws/src/geometry/kdl_conversions/include/kdl_conversions/kdl_msg.h
 kdl/frames.hpp
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/kdl_conversions/include/kdl_conversions/kdl/frames.hpp
+/local-scratch/xlv/catkin_ws/src/geometry/kdl_conversions/include/kdl_conversions/kdl/frames.hpp
 geometry_msgs/Point.h
 -
 geometry_msgs/Pose.h
@@ -26,33 +26,33 @@ geometry_msgs/Wrench.h
 ros/macros.h
 -
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Matrix3x3.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Matrix3x3.h
 Vector3.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Vector3.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Vector3.h
 Quaternion.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Quaternion.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Quaternion.h
 ros/macros.h
 -
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/MinMax.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/MinMax.h
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/QuadWord.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/QuadWord.h
 Scalar.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Scalar.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Scalar.h
 MinMax.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/MinMax.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/MinMax.h
 altivec.h
 -
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Quaternion.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Quaternion.h
 Vector3.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Vector3.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Vector3.h
 QuadWord.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/QuadWord.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/QuadWord.h
 ros/macros.h
 -
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Scalar.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Scalar.h
 math.h
 -
 stdlib.h
@@ -74,51 +74,51 @@ assert.h
 assert.h
 -
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Transform.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Transform.h
 Matrix3x3.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Matrix3x3.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Matrix3x3.h
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Vector3.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Vector3.h
 Scalar.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/Scalar.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/Scalar.h
 MinMax.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/LinearMath/MinMax.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/LinearMath/MinMax.h
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/transform_datatypes.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/transform_datatypes.h
 string
 -
 geometry_msgs/PointStamped.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/geometry_msgs/PointStamped.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/geometry_msgs/PointStamped.h
 geometry_msgs/Vector3Stamped.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/geometry_msgs/Vector3Stamped.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/geometry_msgs/Vector3Stamped.h
 geometry_msgs/QuaternionStamped.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/geometry_msgs/QuaternionStamped.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/geometry_msgs/QuaternionStamped.h
 geometry_msgs/TransformStamped.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/geometry_msgs/TransformStamped.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/geometry_msgs/TransformStamped.h
 geometry_msgs/PoseStamped.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/geometry_msgs/PoseStamped.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/geometry_msgs/PoseStamped.h
 tf/LinearMath/Transform.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/tf/LinearMath/Transform.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/tf/LinearMath/Transform.h
 ros/time.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/ros/time.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/ros/time.h
 ros/console.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf/include/tf/ros/console.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf/include/tf/ros/console.h
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/tf_eigen.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/tf_eigen.h
 tf/transform_datatypes.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/tf/transform_datatypes.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/tf/transform_datatypes.h
 Eigen/Core
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/Eigen/Core
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/Eigen/Core
 Eigen/Geometry
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/Eigen/Geometry
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/Eigen/Geometry
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/tf_kdl.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/tf_kdl.h
 kdl_conversions/kdl_msg.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/kdl_conversions/kdl_msg.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/kdl_conversions/kdl_msg.h
 tf/transform_datatypes.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/tf/transform_datatypes.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/tf/transform_datatypes.h
 kdl/frames.hpp
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/kdl/frames.hpp
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/include/tf_conversions/kdl/frames.hpp
 geometry_msgs/Pose.h
 -
 geometry_msgs/Twist.h
@@ -126,15 +126,15 @@ geometry_msgs/Twist.h
 ros/macros.h
 -
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/src/tf_eigen.cpp
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/src/tf_eigen.cpp
 tf_conversions/tf_eigen.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/src/tf_conversions/tf_eigen.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/src/tf_conversions/tf_eigen.h
 
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/src/tf_kdl.cpp
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/src/tf_kdl.cpp
 tf_conversions/tf_kdl.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/src/tf_conversions/tf_kdl.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/src/tf_conversions/tf_kdl.h
 kdl_conversions/kdl_msg.h
-/local-scratch/xlv/reward_shaping_ttr/catkin_ws/src/geometry/tf_conversions/src/kdl_conversions/kdl_msg.h
+/local-scratch/xlv/catkin_ws/src/geometry/tf_conversions/src/kdl_conversions/kdl_msg.h
 
 /opt/ros/kinetic/include/geometry_msgs/Point.h
 string
