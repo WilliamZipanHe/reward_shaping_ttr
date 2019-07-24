@@ -55,7 +55,9 @@ def traj_segment_generator(pi, env, horizon, stochastic):
         news[i] = new
         acs[i] = ac
         prevacs[i] = prevac
+        
 
+        
         ob, rew, new, _ = env.step(ac)
         rews[i] = rew
 
