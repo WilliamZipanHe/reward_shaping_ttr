@@ -7,6 +7,7 @@
     <mapping directory="$PROJECT_DIR$/catkin_ws/src/hector_models" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/catkin_ws/src/turtlebot_simulator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/catkin_ws/src/xacro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-baselines" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/toolboxls" vcs="hg4idea" />
   </component>
 </project>
