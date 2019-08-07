@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9eae05f-ab10-4648-a061-5a032cf297a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catkin_ws/src/turtlebot_simulator" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/turtlebot_simulator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catkin_ws/src/turtlebot_simulator/turtlebot_gazebo/env-hooks/25.turtlebot-gazebo.sh.em" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/turtlebot_simulator/turtlebot_gazebo/env-hooks/25.turtlebot-gazebo.sh.em" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stable-baselines" beforeDir="false" afterPath="$PROJECT_DIR$/stable-baselines" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/trpo_mpi.py" beforeDir="false" afterPath="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/trpo_mpi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/utils.py" afterDir="false" />
@@ -617,7 +615,7 @@
       <workItem from="1565058654065" duration="11571000" />
       <workItem from="1565071711071" duration="979000" />
       <workItem from="1565119772123" duration="25510000" />
-      <workItem from="1565213996788" duration="245000" />
+      <workItem from="1565213996788" duration="626000" />
     </task>
     <servers />
   </component>
@@ -627,7 +625,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="949416000" />
+    <option name="totallyTimeSpent" value="949797000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
