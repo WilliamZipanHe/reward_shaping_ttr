@@ -2,11 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9eae05f-ab10-4648-a061-5a032cf297a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0.75/ttrValue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym_foo/gym_foo/envs/tmp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/launch/tmp_backup/DubinsCarCircuitGround_v0.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scatter_plotter_paper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_scatter_plotter.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/PlanarQuad_brs_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/PlanarQuad_brs_engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/test.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/tmp.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttrValue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttrVxPhi.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttrVyPhi.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttrW.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttrX.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttrY.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0.75/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0.75/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0.75/ttrValue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0.75/ttrVxPhi.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0.75/ttrVxPhi.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0.75/ttrVyPhi.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0.75/ttrVyPhi.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0.75/ttrW.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0.75/ttrW.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0.75/ttrX.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0.75/ttrX.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0.75/ttrY.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0.75/ttrY.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0/ttrValue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0/ttrVxPhi.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0/ttrVxPhi.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0/ttrVyPhi.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0/ttrVyPhi.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0/ttrW.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0/ttrW.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0/ttrX.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0/ttrX.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0/ttrY.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0/ttrY.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brs_engine/ttrValue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0/ttrValue.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catkin_ws/src/turtlebot_simulator" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/turtlebot_simulator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catkin_ws/src/turtlebot_simulator/turtlebot_gazebo/env-hooks/25.turtlebot-gazebo.sh.em" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/turtlebot_simulator/turtlebot_gazebo/env-hooks/25.turtlebot-gazebo.sh.em" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stable-baselines" beforeDir="false" afterPath="$PROJECT_DIR$/stable-baselines" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/trpo_mpi.py" beforeDir="false" afterPath="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/trpo_mpi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_foo/gym_foo/envs/DubinsCarEnv_v0.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_foo/gym_foo/envs/DubinsCarEnv_v0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_foo/gym_foo/envs/DubinsCarEnv_v0_dqn.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_foo/gym_foo/envs/tmp/DubinsCarEnv_v0_dqn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_foo/gym_foo/envs/PlanarQuadEnv_v0.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_foo/gym_foo/envs/PlanarQuadEnv_v0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_foo/gym_foo/envs/PlanarQuadEnv_v0_dqn.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_foo/gym_foo/envs/tmp/PlanarQuadEnv_v0_dqn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_foo/gym_foo/envs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_foo/gym_foo/envs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch/DubinsCarCircuitGround_v0.launch" beforeDir="false" afterPath="$PROJECT_DIR$/launch/DubinsCarCircuitGround_v0.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ppo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppo1_utils/pposgd_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/ppo1_utils/pposgd_simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quick_trpo.py" beforeDir="false" afterPath="$PROJECT_DIR$/quick_trpo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_plotter_paper.py" beforeDir="false" afterPath="$PROJECT_DIR$/results_plotter_paper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_result_plotter.sh" beforeDir="false" afterPath="$PROJECT_DIR$/test_result_plotter.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_ddpg.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_ddpg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_ppo.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_ppo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urdfs/dubins_car.urdf.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/urdfs/dubins_car.urdf.xacro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urdfs/dubins_car_base.urdf.xacro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/urdfs/tmp.urdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/worlds/circuit_ground.world" beforeDir="false" afterPath="$PROJECT_DIR$/worlds/circuit_ground.world" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,17 +62,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/reward_shaping_ttr$train_ppo.coverage" NAME="train_ppo Coverage Results" MODIFIED="1566006705048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reward_shaping_ttr$train_ddpg.coverage" NAME="train_ddpg Coverage Results" MODIFIED="1562117009146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reward_shaping_ttr$train_trpo.coverage" NAME="train_trpo Coverage Results" MODIFIED="1564010682756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reward_shaping_ttr$plotting_performance.coverage" NAME="plotting_performance Coverage Results" MODIFIED="1565130256840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/reward_shaping_ttr$DubinsCar_brs_engine.coverage" NAME="DubinsCar_brs_engine Coverage Results" MODIFIED="1565906659810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/brs_engine" />
     <SUITE FILE_PATH="coverage/reward_shaping_ttr$tes.coverage" NAME="tes Coverage Results" MODIFIED="1565130242253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IROS2019$train.coverage" NAME="train Coverage Results" MODIFIED="1551140222737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/reward_shaping_ttr$train_ddpg.coverage" NAME="train_ddpg Coverage Results" MODIFIED="1562117009146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/reward_shaping_ttr$tmp_test.coverage" NAME="tmp_test Coverage Results" MODIFIED="1565154194365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-51-42" />
     <SUITE FILE_PATH="coverage/IROS2019$PlanarQuadEnv_v0.coverage" NAME="PlanarQuadEnv_v0 Coverage Results" MODIFIED="1550121606026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gym-foo/gym_foo/envs" />
-    <SUITE FILE_PATH="coverage/reward_shaping_ttr$quick_trpo.coverage" NAME="quick_trpo Coverage Results" MODIFIED="1565129155677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stable-baselines" />
+    <SUITE FILE_PATH="coverage/reward_shaping_ttr$quick_trpo.coverage" NAME="quick_trpo Coverage Results" MODIFIED="1565656972038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IROS2019$eval.coverage" NAME="eval Coverage Results" MODIFIED="1551210107081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/reward_shaping_ttr$PlanarQuad_brs_engine.coverage" NAME="PlanarQuad_brs_engine Coverage Results" MODIFIED="1562808253302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/brs_engine" />
     <SUITE FILE_PATH="coverage/IROS2019$pickle_analysis.coverage" NAME="pickle_analysis Coverage Results" MODIFIED="1549914198890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/reward_shaping_ttr$train_trpo.coverage" NAME="train_trpo Coverage Results" MODIFIED="1564010682756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/reward_shaping_ttr$plotting_performance.coverage" NAME="plotting_performance Coverage Results" MODIFIED="1565130256840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/reward_shaping_ttr$Nosetests_in_test_trpo_py.coverage" NAME="Nosetests in test_trpo.py Coverage Results" MODIFIED="1564966717929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stable-baselines" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -51,91 +100,114 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.sh">
+        <entry file="file://$PROJECT_DIR$/gym_foo/gym_foo/envs/PlanarQuadEnv_v0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="324">
+              <caret line="644" column="8" selection-start-line="644" selection-start-column="8" selection-end-line="646" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#817#892#0" />
+                <element signature="e#20462#20508#0" />
+                <element signature="e#30262#30400#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gym_foo/gym_foo/envs/PlanarQuadEnv_v0.py">
+        <entry file="file://$PROJECT_DIR$/gym_foo/gym_foo/envs/DubinsCarEnv_v0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8172">
-              <caret line="454" column="44" selection-start-line="454" selection-start-column="44" selection-end-line="454" selection-end-column="44" />
+            <state relative-caret-position="360">
+              <caret line="298" column="65" selection-start-line="298" selection-start-column="65" selection-end-line="298" selection-end-column="65" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#9187#9217#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1152">
+              <caret line="64" column="65" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_ddpg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="135" column="60" selection-start-line="135" selection-start-column="60" selection-end-line="135" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ppo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="230" column="20" selection-start-line="230" selection-start-column="20" selection-end-line="230" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baselines/ppo1/mlp_policy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baselines/common/tf_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="230" column="4" selection-start-line="230" selection-start-column="4" selection-end-line="230" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/trpo_mpi.py">
+        <entry file="file://$PROJECT_DIR$/train_ppo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5959">
-              <caret line="276" column="25" selection-start-line="276" selection-start-column="25" selection-end-line="276" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2106">
-              <caret line="117" column="59" selection-start-line="117" selection-start-column="55" selection-end-line="117" selection-end-column="59" />
+            <state relative-caret-position="177">
+              <caret line="337" column="44" selection-start-line="337" selection-start-column="44" selection-end-line="337" selection-end-column="44" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#1#11#0" expanded="true" />
+                <element signature="e#7174#13926#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/sac/policies.py">
+        <entry file="file://$PROJECT_DIR$/baselines/logger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2394">
-              <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ppo1_utils/pposgd_simple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#74#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ppo1_utils/mlp_policy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1044">
-              <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quick_trpo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1818">
-              <caret line="101" column="25" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/common/policies.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5130">
-              <caret line="296" column="60" selection-start-line="296" selection-start-column="47" selection-end-line="296" selection-end-column="60" />
+            <state relative-caret-position="-1029">
+              <caret line="256" selection-start-line="256" selection-end-line="256" />
             </state>
           </provider>
         </entry>
@@ -151,16 +223,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>MPI.COMM_WORLD.</find>
-      <find>txt</find>
-      <find>file</find>
-      <find>dumpkvs</find>
-      <find>strf</find>
-      <find>sess</find>
-      <find>network</find>
-      <find>episode_rewards_history</find>
-      <find>epoch_episode_rewards</find>
-      <find>train_suc_percents</find>
       <find>saver</find>
       <find>restore</find>
       <find>eval_obs</find>
@@ -181,32 +243,29 @@
       <find>initial_state</find>
       <find>deterministic</find>
       <find>policy_pi</find>
+      <find>euler_from_quaternion</find>
+      <find>get</find>
+      <find>model_name</find>
+      <find>996</find>
+      <find>in</find>
+      <find>START_STATE</find>
+      <find>gui</find>
+      <find>cube_2</find>
+      <find>in goal</find>
+      <find>lossandgrad</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/stable-baselines" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/brs_engine/PlanarQuad_brs_engine.py" />
-        <option value="$PROJECT_DIR$/urdfs/dubins_car.urdf.xacro" />
-        <option value="$PROJECT_DIR$/urdfs/dubins_car_base.urdf.xacro" />
-        <option value="$PROJECT_DIR$/launch/DubinsCarCircuitGround_v0.launch" />
-        <option value="$PROJECT_DIR$/train.py" />
-        <option value="$PROJECT_DIR$/trpo_mpi.py" />
-        <option value="$PROJECT_DIR$/baselines/common/distributions.py" />
-        <option value="$PROJECT_DIR$/baselines/common/mpi_running_mean_std.py" />
-        <option value="$PROJECT_DIR$/ppo.py" />
-        <option value="$PROJECT_DIR$/baselines/common/policies.py" />
-        <option value="$PROJECT_DIR$/trpo.py" />
-        <option value="$PROJECT_DIR$/trpo_utils/trpo_mpi.py" />
         <option value="$PROJECT_DIR$/train_trpo.py" />
         <option value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_distance_ppo_29-Jul-2019_04-10-47/README.md" />
         <option value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_distance_ppo_28-Jul-2019_22-14-20/README.md" />
         <option value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_hand_craft_ppo_29-Jul-2019_01-16-54/README.md" />
         <option value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_ppo_28-Jul-2019_14-57-33/README.md" />
-        <option value="$PROJECT_DIR$/gym_foo/gym_foo/envs/DubinsCarEnv_v0.py" />
         <option value="$PROJECT_DIR$/ddpg/bench/__init__.py" />
         <option value="$PROJECT_DIR$/ddpg/bench/monitor.py" />
         <option value="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0/README.md" />
@@ -219,35 +278,48 @@
         <option value="$PROJECT_DIR$/tmp_test.py" />
         <option value="$PROJECT_DIR$/utils/plotting_performance.py" />
         <option value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_ddpg_01-Aug-2019_18-13-27/tmp_test.py" />
-        <option value="$PROJECT_DIR$/train_ppo.py" />
-        <option value="$PROJECT_DIR$/test_result_plotter.sh" />
-        <option value="$PROJECT_DIR$/results_plotter_paper.py" />
         <option value="$PROJECT_DIR$/stable-baselines/test_trpo.py" />
         <option value="$PROJECT_DIR$/stable-baselines/quick_trpo.py" />
-        <option value="$PROJECT_DIR$/gym_foo/gym_foo/envs/PlanarQuadEnv_v0.py" />
         <option value="$PROJECT_DIR$/stable-baselines/runs_icra/PlanarQuadEnv-v0_ttr_trpo_04-Aug-2019_19-28-12/README.md" />
         <option value="$PROJECT_DIR$/trpo_utils/README.md" />
-        <option value="$PROJECT_DIR$/ppo1_utils/pposgd_simple.py" />
         <option value="$PROJECT_DIR$/ddpg/training.py" />
         <option value="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/utils.py" />
-        <option value="$PROJECT_DIR$/train_ddpg.py" />
         <option value="$PROJECT_DIR$/.gitattributes" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/tes.py" />
         <option value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_ddpg_06-Aug-2019_15-25-52/README.md" />
         <option value="$PROJECT_DIR$/runs_icra/README.md" />
         <option value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-51-42/tmp_test.py" />
-        <option value="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/trpo_mpi.py" />
+        <option value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_distance_lambda_10_trpo_09-Aug-2019_14-30-51/README.md" />
+        <option value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_distance_lambda_10_trpo_08-Aug-2019_17-35-33/README.md" />
+        <option value="$PROJECT_DIR$/gym_foo/gym_foo/envs/__init__.py" />
         <option value="$PROJECT_DIR$/quick_trpo.py" />
+        <option value="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0.75/README.md" />
+        <option value="$PROJECT_DIR$/brs_engine/PlanarQuad_brs_engine.py" />
+        <option value="$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/trpo_mpi.py" />
+        <option value="$PROJECT_DIR$/test_result_plotter.sh" />
+        <option value="$PROJECT_DIR$/launch/DubinsCarCircuitGround_v0.launch" />
+        <option value="$PROJECT_DIR$/urdfs/dubins_car.urdf.xacro" />
+        <option value="$PROJECT_DIR$/results_plotter_paper.py" />
+        <option value="$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py" />
+        <option value="$PROJECT_DIR$/worlds/circuit_ground.world" />
+        <option value="$PROJECT_DIR$/test_scatter_plotter.sh" />
+        <option value="$PROJECT_DIR$/scatter_plotter_paper.py" />
+        <option value="$PROJECT_DIR$/ppo1_utils/pposgd_simple.py" />
+        <option value="$PROJECT_DIR$/gym_foo/gym_foo/envs/PlanarQuadEnv_v0.py" />
+        <option value="$PROJECT_DIR$/ppo.py" />
+        <option value="$PROJECT_DIR$/gym_foo/gym_foo/envs/DubinsCarEnv_v0.py" />
         <option value="$PROJECT_DIR$/run.sh" />
+        <option value="$PROJECT_DIR$/train_ddpg.py" />
+        <option value="$PROJECT_DIR$/train_ppo.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1919" />
-    <option name="y" value="24" />
-    <option name="width" value="1922" />
-    <option name="height" value="1033" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-29" />
+    <option name="y" value="40" />
+    <option name="width" value="1898" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -255,7 +327,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,118 +337,70 @@
             <path>
               <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
               <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="runs_icra" type="462c0819:PsiDirectoryNode" />
+              <item name="brs_engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
+              <item name="gym_foo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
+              <item name="gym_foo" type="462c0819:PsiDirectoryNode" />
+              <item name="gym_foo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
+              <item name="gym_foo" type="462c0819:PsiDirectoryNode" />
+              <item name="gym_foo" type="462c0819:PsiDirectoryNode" />
+              <item name="envs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
+              <item name="ppo1_utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
               <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
               <item name="runs_icra" type="462c0819:PsiDirectoryNode" />
-              <item name="PlanarQuadEnv-v0_distance_trpo_07-Aug-2019_09-03-27" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
               <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="runs_icra" type="462c0819:PsiDirectoryNode" />
-              <item name="PlanarQuadEnv-v0_distance_trpo_07-Aug-2019_09-03-27" type="462c0819:PsiDirectoryNode" />
-              <item name="figure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="runs_icra" type="462c0819:PsiDirectoryNode" />
-              <item name="PlanarQuadEnv-v0_hand_craft_trpo_07-Aug-2019_03-58-59" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="runs_icra" type="462c0819:PsiDirectoryNode" />
-              <item name="PlanarQuadEnv-v0_hand_craft_trpo_07-Aug-2019_03-58-59" type="462c0819:PsiDirectoryNode" />
-              <item name="figure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="runs_icra" type="462c0819:PsiDirectoryNode" />
-              <item name="PlanarQuadEnv-v0_ttr_ddpg_01-Aug-2019_18-13-27" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="runs_icra" type="462c0819:PsiDirectoryNode" />
-              <item name="PlanarQuadEnv-v0_ttr_ddpg_01-Aug-2019_18-13-27" type="462c0819:PsiDirectoryNode" />
-              <item name="figure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="runs_icra" type="462c0819:PsiDirectoryNode" />
-              <item name="PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_23-31-12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="runs_icra" type="462c0819:PsiDirectoryNode" />
-              <item name="PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_23-31-12" type="462c0819:PsiDirectoryNode" />
-              <item name="figure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="stable-baselines" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="stable-baselines" type="462c0819:PsiDirectoryNode" />
-              <item name="stable_baselines" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="stable-baselines" type="462c0819:PsiDirectoryNode" />
-              <item name="stable_baselines" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="stable-baselines" type="462c0819:PsiDirectoryNode" />
-              <item name="stable_baselines" type="462c0819:PsiDirectoryNode" />
-              <item name="trpo_mpi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reward_shaping_ttr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reward_shaping_ttr" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="worlds" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quad_stabilization" />
+    <property name="last_opened_file_path" value="/opt/ros/kinetic/lib/python2.7/dist-packages" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/utils" />
-      <recent name="$PROJECT_DIR$/trpo_utils" />
-      <recent name="$PROJECT_DIR$/runs_icra" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/runs_icra/explore" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0.75" />
       <recent name="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-51-42" />
       <recent name="$PROJECT_DIR$/brs_engine" />
       <recent name="$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0" />
       <recent name="$PROJECT_DIR$/ddpg" />
-      <recent name="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_ppo_29-Jul-2019_14-50-00" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/brs_engine/ttr_backup" />
+      <recent name="$PROJECT_DIR$/runs_icra/explore" />
+      <recent name="$PROJECT_DIR$/launch/tmp_backup" />
+      <recent name="$PROJECT_DIR$/gym_foo/gym_foo/envs/tmp" />
+      <recent name="$PROJECT_DIR$/utils" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -423,6 +446,39 @@
       <option name="PARAMETERS" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_result_plotter.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="IROS2019" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_result_plotter.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DubinsCar_brs_engine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IROS2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/brs_engine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -445,28 +501,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plotting_performance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IROS2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/plotting_performance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="quick_trpo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IROS2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -475,7 +509,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stable-baselines" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -489,7 +523,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="train_ppo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IROS2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -502,29 +536,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/tes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tmp_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IROS2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-51-42" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-51-42/tmp_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_ppo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -536,10 +548,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Bash.run.sh" />
-        <item itemvalue="Python.tmp_test" />
-        <item itemvalue="Python.plotting_performance" />
-        <item itemvalue="Python.tes" />
+        <item itemvalue="Python.train_ppo" />
+        <item itemvalue="Python.DubinsCar_brs_engine" />
         <item itemvalue="Python.quick_trpo" />
+        <item itemvalue="Bash.test_result_plotter.sh" />
       </list>
     </recent_temporary>
   </component>
@@ -616,6 +628,18 @@
       <workItem from="1565071711071" duration="979000" />
       <workItem from="1565119772123" duration="25510000" />
       <workItem from="1565213996788" duration="665000" />
+      <workItem from="1565384457306" duration="11677000" />
+      <workItem from="1565657089722" duration="674000" />
+      <workItem from="1565657809099" duration="254000" />
+      <workItem from="1565658402442" duration="37000" />
+      <workItem from="1565658500019" duration="63000" />
+      <workItem from="1565658891818" duration="200000" />
+      <workItem from="1565659133510" duration="196000" />
+      <workItem from="1565720722993" duration="618000" />
+      <workItem from="1565721349690" duration="1003000" />
+      <workItem from="1565722390791" duration="135000" />
+      <workItem from="1565722631545" duration="17482000" />
+      <workItem from="1565760112270" duration="67982000" />
     </task>
     <servers />
   </component>
@@ -625,7 +649,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="949836000" />
+    <option name="totallyTimeSpent" value="1060714000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -637,21 +661,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1919" y="24" width="1922" height="1033" extended-state="6" />
-    <editor active="true" />
+    <frame x="-29" y="40" width="1898" height="1027" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49936143" visible="true" weight="0.2595949" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49936143" visible="true" weight="0.34557235" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50063854" side_tool="true" weight="0.16648936" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32993513" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2941822" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900834" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.43535912" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41325966" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32993513" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32900834" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.39140022" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.49212232" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -660,7 +683,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32991362" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,112 +693,71 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.m" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trpo_utils/train_trpo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="11" selection-end-column="46" />
-          <folding>
-            <marker date="1564982053394" expanded="true" signature="9290:9407" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_04-Aug-2019_19-28-12/log.txt">
+    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_distance_lambda_10_trpo_08-Aug-2019_17-35-33/log.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_04-Aug-2019_19-28-12/README.md">
+    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_distance_lambda_10_trpo_08-Aug-2019_17-35-33/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="18">
-            <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <first_editor>
+            <caret column="84" selection-start-column="84" selection-end-column="84" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trpo_utils/trpo.py">
+    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_distance_lambda_10_trpo_09-Aug-2019_14-30-51/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="51" selection-end-column="109" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urdfs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urdfs/tmp.urdf" />
+    <entry file="file://$PROJECT_DIR$/gym_foo/gym_foo/envs/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trpo_utils/README.md">
+    <entry file="file://$PROJECT_DIR$/urdfs/kobuki_nn_urdf/urdf/kobuki.urdf.xacro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urdfs/kobuki_nn_urdf/urdf/kobuki_gazebo.urdf.xacro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2021" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brs_engine/tmp_backup/README.md" />
+    <entry file="file://$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
-            <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brs_engine/ttr_backup/ttr_theta_0.75/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="98" selection-start-column="98" selection-end-column="98" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baselines/common/distributions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2898">
-          <caret line="165" column="8" selection-start-line="165" selection-start-column="8" selection-end-line="167" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baselines/common/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3276">
-          <caret line="187" column="6" selection-start-line="187" selection-start-column="6" selection-end-line="187" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baselines/common/mpi_running_mean_std.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="48" column="47" selection-start-line="42" selection-start-column="8" selection-end-line="48" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../miniconda3/envs/py35_no_specific/lib/python3.5/site-packages/tensorflow/python/training/saver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26622">
-          <caret line="1521" column="6" selection-start-line="1521" selection-start-column="6" selection-end-line="1521" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppo_params.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0.75/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/brs_engine/tmp_backup/ttr_theta_0/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/brs_engine/tmp_backup/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -788,221 +770,298 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/brs_engine/test.m" />
+    <entry file="file://$PROJECT_DIR$/brs_engine/PlanarQuad_brs_engine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baselines/common/policies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="864">
+          <caret line="51" column="140" selection-start-line="51" selection-start-column="140" selection-end-line="51" selection-end-column="140" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baselines/common/tf_util.py">
+    <entry file="file://$PROJECT_DIR$/urdfs/tmp_backup/dubins_car_base.urdf.xacro">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="995">
-          <caret line="325" column="4" selection-start-line="325" selection-start-column="4" selection-end-line="325" selection-end-column="4" />
+        <state relative-caret-position="260">
+          <caret line="118" column="50" selection-start-line="118" selection-start-column="50" selection-end-line="118" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stable-baselines/trpo_cartpole.pkl">
+    <entry file="file://$PROJECT_DIR$/test_result_plotter.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/air_space.world">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="480" column="39" lean-forward="true" selection-start-line="480" selection-start-column="39" selection-end-line="480" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urdfs/kobuki_nn_urdf/urdf/kobuki_standalone.urdf.xacro">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py">
+    <entry file="file://$PROJECT_DIR$/launch/tmp_backup/DubinsCarCircuitGround_v0.launch">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="19" column="12" selection-start-line="13" selection-start-column="2" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_15-03-59/log.txt" />
-    <entry file="file://$PROJECT_DIR$/utils/tes.py" />
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_ddpg_06-Aug-2019_15-25-52/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="18">
-            <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_ddpg_01-Aug-2019_18-13-27/tmp_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-496">
-          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runs_icra/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppo.py">
+    <entry file="file://$PROJECT_DIR$/launch/QuadrotorAirSpace_v0.launch">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
+          <caret line="15" column="119" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="119" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-09-18/log.txt" />
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-17-10/log.txt" />
-    <entry file="file://$PROJECT_DIR$/../miniconda3/envs/py35_no_specific/lib/python3.5/site-packages/matplotlib/__init__.py">
+    <entry file="file://$PROJECT_DIR$/launch/DubinsCarCircuitGround_v0.launch">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="1404" selection-start-line="1404" selection-end-line="1404" />
+        <state relative-caret-position="540">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train_ppo.py">
+    <entry file="file://$PROJECT_DIR$/urdfs/quadrotor_base.urdf.xacro">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="348" selection-start-line="348" selection-end-line="348" />
-          <folding>
-            <element signature="e#1#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="756">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-25-35/log.txt" />
-    <entry file="file://$PROJECT_DIR$/utils/plotting_performance.py">
+    <entry file="file://$PROJECT_DIR$/urdfs/dubins_car.urdf.xacro">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="432">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ddpg/training.py">
+    <entry file="file://$PROJECT_DIR$/ppo1_utils/mlp_policy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#6230#6241#0" />
-          </folding>
+        <state relative-caret-position="-18">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train_ddpg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2770">
-          <caret line="179" column="18" selection-start-line="179" selection-start-column="8" selection-end-line="179" selection-end-column="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/brs_engine/@DubinsCar/dynamics.m">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-37-41/log.txt" />
-    <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="407" column="7" selection-start-line="407" selection-end-line="407" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-51-42/tmp_test.py" />
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_ddpg_01-Aug-2019_18-13-27/log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18414" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_21-51-42/log.txt" />
-    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_ttr_trpo_06-Aug-2019_23-07-08/log.txt" />
-    <entry file="file://$PROJECT_DIR$/run.sh">
+    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_hand_craft_ppo_15-Aug-2019_07-46-54/log.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="2072" column="77" selection-start-line="2072" selection-start-column="77" selection-end-line="2072" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gym_foo/gym_foo/envs/PlanarQuadEnv_v0.py">
+    <entry file="file://$PROJECT_DIR$/urdfs/quadrotor.urdf.xacro">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8172">
-          <caret line="454" column="44" selection-start-line="454" selection-start-column="44" selection-end-line="454" selection-end-column="44" />
+        <state relative-caret-position="54">
+          <caret line="3" column="60" selection-start-line="2" selection-start-column="4" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results_plotter_paper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="9" selection-end-column="18" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#38#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_scatter_plotter.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="117" selection-start-line="2" selection-start-column="117" selection-end-line="2" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/circuit_ground.world">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="114" column="51" selection-start-line="114" selection-start-column="51" selection-end-line="114" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick_trpo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1278">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/trpo_mpi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="514" column="58" selection-start-line="514" selection-start-column="58" selection-end-line="514" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2106">
-          <caret line="117" column="59" selection-start-line="117" selection-start-column="55" selection-end-line="117" selection-end-column="59" />
+        <state relative-caret-position="1043">
+          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="39" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/sac/policies.py">
+    <entry file="file://$PROJECT_DIR$/scatter_plotter_paper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2394">
-          <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+        <state relative-caret-position="533">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/ppo1/pposgd_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4535">
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baselines/common/mpi_adam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../miniconda3/envs/py35_no_specific/lib/python3.5/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="1290" selection-start-line="1290" selection-end-line="1290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../miniconda3/envs/py35_no_specific/lib/python3.5/site-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="1754" column="46" lean-forward="true" selection-start-line="1754" selection-start-column="46" selection-end-line="1754" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runs_icra/PlanarQuadEnv-v0_hand_craft_ppo_16-Aug-2019_11-37-22/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="17569" column="11" selection-start-line="17569" selection-start-column="11" selection-end-line="17569" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baselines/ppo1/mlp_policy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baselines/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1029">
+          <caret line="256" selection-start-line="256" selection-end-line="256" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ppo1_utils/pposgd_simple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        <state relative-caret-position="-2930">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="e#0#74#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppo1_utils/mlp_policy.py">
+    <entry file="file://$PROJECT_DIR$/baselines/common/tf_util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+        <state relative-caret-position="205">
+          <caret line="230" column="4" selection-start-line="230" selection-start-column="4" selection-end-line="230" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quick_trpo.py">
+    <entry file="file://$PROJECT_DIR$/ppo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1818">
-          <caret line="101" column="25" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+        <state relative-caret-position="184">
+          <caret line="230" column="20" selection-start-line="230" selection-start-column="20" selection-end-line="230" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/common/policies.py">
+    <entry file="file://$PROJECT_DIR$/gym_foo/gym_foo/envs/PlanarQuadEnv_v0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5130">
-          <caret line="296" column="60" selection-start-line="296" selection-start-column="47" selection-end-line="296" selection-end-column="60" />
+        <state relative-caret-position="324">
+          <caret line="644" column="8" selection-start-line="644" selection-start-column="8" selection-end-line="646" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#817#892#0" />
+            <element signature="e#20462#20508#0" />
+            <element signature="e#30262#30400#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stable-baselines/stable_baselines/trpo_mpi/trpo_mpi.py">
+    <entry file="file://$PROJECT_DIR$/brs_engine/DubinsCar_approx_TTR.m">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brs_engine/DubinsCar_brs_engine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5959">
-          <caret line="276" column="25" selection-start-line="276" selection-start-column="25" selection-end-line="276" selection-end-column="25" />
+        <state relative-caret-position="66">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_foo/gym_foo/envs/DubinsCarEnv_v0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="298" column="65" selection-start-line="298" selection-start-column="65" selection-end-line="298" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#9187#9217#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ddpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="135" column="60" selection-start-line="135" selection-start-column="60" selection-end-line="135" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="64" column="65" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ppo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="337" column="44" selection-start-line="337" selection-start-column="44" selection-end-line="337" selection-end-column="44" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+            <element signature="e#7174#13926#0" />
+          </folding>
         </state>
       </provider>
     </entry>
