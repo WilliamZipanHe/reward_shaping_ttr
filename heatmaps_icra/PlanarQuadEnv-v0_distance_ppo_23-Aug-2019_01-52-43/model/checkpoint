@@ -1,2 +1,0 @@
-model_checkpoint_path: "/local-scratch/xlv/reward_shaping_ttr/heatmaps_icra/PlanarQuadEnv-v0_distance_ppo_23-Aug-2019_01-52-43/model/trained_model"
-all_model_checkpoint_paths: "/local-scratch/xlv/reward_shaping_ttr/heatmaps_icra/PlanarQuadEnv-v0_distance_ppo_23-Aug-2019_01-52-43/model/trained_model"
