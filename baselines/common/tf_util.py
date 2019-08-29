@@ -70,10 +70,14 @@ def make_session(config=None, num_cpu=None, make_default=False, graph=None):
         config.gpu_options.allow_growth = True
     '''
     if config is None:
-        config = tf.ConfigProto(
-            device_count = {'GPU':1}
-        )
+        # config = tf.ConfigProto(
+        #     device_count = {'GPU':0}
+        #
+        # )
+        config=tf.ConfigProto()
+        config.allow_soft_placement=True
         config.gpu_options.allow_growth = True
+        # config.log_device_placement = True
     if make_default:
         return tf.InteractiveSession(config=config, graph=graph)
     else:
