@@ -1,7 +1,0 @@
-xacro
-/local-scratch/xlv/catkin_ws/devel/.private/xacro/bin/xacro /local-scratch/xlv/catkin_ws/devel/bin/xacro
-/local-scratch/xlv/catkin_ws/devel/.private/xacro/share/xacro/cmake/xacroConfig-version.cmake /local-scratch/xlv/catkin_ws/devel/share/xacro/cmake/xacroConfig-version.cmake
-/local-scratch/xlv/catkin_ws/devel/.private/xacro/share/xacro/cmake/xacro-extras.cmake /local-scratch/xlv/catkin_ws/devel/share/xacro/cmake/xacro-extras.cmake
-/local-scratch/xlv/catkin_ws/devel/.private/xacro/share/xacro/cmake/xacroConfig.cmake /local-scratch/xlv/catkin_ws/devel/share/xacro/cmake/xacroConfig.cmake
-/local-scratch/xlv/catkin_ws/devel/.private/xacro/lib/python3/dist-packages/xacro/__init__.py /local-scratch/xlv/catkin_ws/devel/lib/python3/dist-packages/xacro/__init__.py
-/local-scratch/xlv/catkin_ws/devel/.private/xacro/lib/pkgconfig/xacro.pc /local-scratch/xlv/catkin_ws/devel/lib/pkgconfig/xacro.pc

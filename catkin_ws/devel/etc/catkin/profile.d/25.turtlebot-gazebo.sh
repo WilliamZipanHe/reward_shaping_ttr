@@ -1,1 +1,0 @@
-/local-scratch/xlv/catkin_ws/devel/.private/turtlebot_gazebo/etc/catkin/profile.d/25.turtlebot-gazebo.sh

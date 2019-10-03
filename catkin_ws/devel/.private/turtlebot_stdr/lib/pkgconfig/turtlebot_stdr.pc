@@ -1,8 +1,0 @@
-prefix=/local-scratch/xlv/catkin_ws/devel/.private/turtlebot_stdr
-
-Name: turtlebot_stdr
-Description: Description of turtlebot_stdr
-Version: 2.2.3
-Cflags: 
-Libs: -L/local-scratch/xlv/catkin_ws/devel/.private/turtlebot_stdr/lib 
-Requires: 

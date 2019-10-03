@@ -1,1 +1,0 @@
-/local-scratch/xlv/catkin_ws/devel/.private/turtlebot_stage/lib/pkgconfig/turtlebot_stage.pc

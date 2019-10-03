@@ -2,9 +2,17 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/ackermann_msgs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/ackermann_vehicle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/crazyflie_ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/crazyflie_ros/crazyflie_cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/crazyflie_ros/crazyflie_tools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/catkin_ws/src/geometry" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/catkin_ws/src/geometry2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/hector_gazebo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/catkin_ws/src/hector_models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/kobuki" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/kobuki_desktop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/catkin_ws/src/turtlebot_simulator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/catkin_ws/src/xacro" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/stable-baselines" vcs="Git" />
